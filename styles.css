@@ -9,3 +9,49 @@
   color: white !important;
   font-weight: bold;
 }
+.myBack {
+  background-image: url("./images/backround.jpg");
+  height: 400px;
+  width: 100%;
+  object-fit: contain;
+}
+.myContainer {
+  background-color: transparent;
+  height: 250px;
+  /* margin-bottom: 12px;
+  margin-top: 75px;
+  margin-left: 20px; */
+}
+.myImage {
+  height: 225px;
+  margin-top: 8px;
+}
+
+.card__right {
+  padding-left: 20px;
+  margin-top: 25px;
+}
+.myBio h3 {
+  color: #ff4c29;
+  font-weight: bold;
+}
+
+.myBio h5 {
+  color: aqua;
+}
+
+.myBio p {
+  color: aquamarine;
+}
+.myBio h3:hover {
+  color: white;
+  font-weight: bold;
+}
+
+.myBio h5:hover {
+  color: white;
+}
+
+.myBio p:hover {
+  color: white;
+}
