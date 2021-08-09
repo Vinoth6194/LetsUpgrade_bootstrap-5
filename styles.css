@@ -55,3 +55,19 @@
 .myBio p:hover {
   color: white;
 }
+.myProjects {
+  text-align: center;
+  color: #ff4c29;
+  font-weight: bold;
+}
+.myHeading {
+  background-color: #334756;
+  width: 100%;
+  height: 35px;
+  margin-top: 12px;
+}
+.copy {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
